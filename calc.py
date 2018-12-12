@@ -165,7 +165,7 @@ class Calc():
         self.current = math.acosh(float(txtDisplay.get))
         self.display(self.current)
 
-    def asinh(self):
+    def asinh(self): 
         self.result = False
         self.current = math.asinh(float(txtDisplay.get()))
         self.display(self.current)
