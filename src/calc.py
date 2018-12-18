@@ -165,7 +165,7 @@ class Calc():
         self.current = math.acosh(float(txtDisplay.get))
         self.display(self.current)
 
-    def asinh(self): 
+    def asinh(self):
         self.result = False
         self.current = math.asinh(float(txtDisplay.get()))
         self.display(self.current)
@@ -260,9 +260,9 @@ btnasinh = Button(calc, text="asinh", width=6, height=2, font=('arial',20,'bold'
 #==
 btnlog10 = Button(calc, text="log10", width=6, height=2, font=('arial',20,'bold') , bd=4,
             bg ="gold", command = added_value.log10).grid(row=5, column=4, pady=1)
-btnboolean = Button(calc, text="boolean", width=6, height=2, font=('arial',20,'bold') , bd=4,   #boolean
+btnboolean = Button(calc, text="booleanWIP", width=6, height=2, font=('arial',20,'bold') , bd=4,   #boolean
             bg ="purple1").grid(row=5, column=5, pady=1)
-btngraph = Button(calc, text="graph", width=6, height=2, font=('arial',20,'bold') , bd=4, #graph
+btngraph = Button(calc, text="graphWIP", width=6, height=2, font=('arial',20,'bold') , bd=4, #graph
             bg ="purple1").grid(row=5, column=6, pady=1)
 btngamma = Button(calc, text="1gamma", width=6, height=2, font=('arial',20,'bold') , bd=4,
             bg ="purple1").grid(row=5, column=7, pady=1)
