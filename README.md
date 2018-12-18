@@ -1,10 +1,10 @@
 # Scientific Calculator
 
-Scientific calculator using python3. 
+Scientific calculator using python3.
 
 ## Objective of the Project
 
-The objective is to create a scientific calulator that could be used for next semester. 
+To create a calculator to be used for spring semester math.
 
 ## How to Run the Project
 
@@ -14,7 +14,7 @@ The objective is to create a scientific calulator that could be used for next se
 
 ## Software Tools Used
 
-- Python 
+- Python
 - TKinter
 - Adobe Fireworks
 
