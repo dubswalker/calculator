@@ -8,4 +8,4 @@ You can run the program with a python ide or python3 calc.py
 # Softwares Used
 - Python 
 - TKinter
-- Adobe Fireworks (for projects)
+- Adobe Fireworks (for images)
