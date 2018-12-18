@@ -19,6 +19,3 @@ To create a calculator to be used for spring semester math.
 - TKinter
 - Adobe Fireworks
 
-## Tangible Results 
-
-The GUI of the database.
